@@ -13,3 +13,16 @@ Como nem sempre é possível observar os usuários em seus contextos, é importa
 Qualquer solução sempre dependerá do contexto: qual problema você tentará resolver? Para quem se está projetando? Qual é o modelo mental dessas pessoas? Quais são seus objetivos? 
 
 Uma solução que pode ser perfeita em uma situação, pode ser péssima em outra. O entendimento contextual do usuário ajuda a encontrar as respostas que se precisa antes de tomar algumas decisões. O contexto deve ser levado em consideração tanto para planejar a pesquisa, quanto no momento de análise e concepção do produto.
+
+## Emoções
+
+Norman (2010, p. 59) propõe que uma experiência envolve três níveis de design baseado nas emoções.
+
+-> Design Visceral:
+São os aspectos físicos: aparência, toque e som. Diz respeito às reações iniciais, ao impacto emocional imediato.
+
+-> Design Comportamental:
+O prazer e efetividade de uso. Diz respeito ao uso, função, compreensibilidade. Deve centrar-se em satisfazer as necessidades das pessoas que realmente usam o produto
+
+-> Design Reflexivo:
+É o significado das coisas. Diz respeito à autoimagem e mensagens que um produto envia as pessoas. Relaciona-se à experiência de longo prazo do cliente.
